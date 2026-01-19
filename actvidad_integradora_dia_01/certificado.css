@@ -154,5 +154,6 @@ body {
     letter-spacing: 10px;
     pointer-events: none;
     z-index: 0;
+    -webkit-user-select: none;
     user-select: none;
 }
